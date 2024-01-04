@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fuzzylite.com/qt/</loc>
+         <lastmod>2024-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fuzzylite.com/thanks/</loc>
          <lastmod>2024-01-04</lastmod>
          <changefreq>daily</changefreq>
